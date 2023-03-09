@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hw43:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hw43_jar</output-path>
+    <root id="archive" name="hw43.jar">
+      <element id="module-output" name="hw43" />
+    </root>
+  </artifact>
+</component>
